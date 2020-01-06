@@ -137,3 +137,20 @@ body {
     background: #2F70A8;
     box-shadow: #13426B 0 3px 0 0;
 }
+
+.ultimate {
+    margin: 50px auto;
+    width: 290px;
+    border: 4px solid #00B89A;
+}
+
+.ultimate .title {
+    color: white;
+    background: #00B89A;
+}
+
+.ultimate .cta-btn {
+    color: white;
+    background: #2F70A8;
+    box-shadow: #13426B 0 3px 0 0;
+}
