@@ -1,0 +1,91 @@
+body {
+    font-family: "Century Gothic";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    background: black;
+    margin: 100px auto;
+    /*height: 380px;*/
+    box-sizing: border-box;
+}
+
+h3 {
+    text-transform: uppercase;
+    color: #E47017;
+    text-align: center;
+    font-size: 45px;
+    padding: 35px;
+    margin: 0;
+}
+
+span {
+    color: #3170A8;
+}
+
+.block-client {
+    height: 200px;
+    width: 85%;
+    margin: 0px auto;
+    box-sizing: border-box;
+}
+
+.block-client1-text, .block-client2-text {
+    background: white;
+    width: 310px;
+    height: 100px;
+    font-size: 12px;
+    margin: 0px 20px;
+    padding: 5px;
+    float: left;
+}
+
+.block-client1, .block-client2 {
+    float: left;
+    margin-left: 30px;
+}
+
+img {
+    height: 110px;
+    width: 110px;
+    display: block;
+    margin: 0;
+    float: left;
+}
+
+.name, .customer {
+    color: #7AB3E3;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+    margin: 2px 5px;
+}
+
+.name {
+    float: left;
+}
+
+.customer {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.text {
+    color: #B49D9C;
+    margin: 2px 5px;
+}
+
+.point {
+    margin: 3px;
+}
+
+/*.arrow {*/
+/*    width: 1px;*/
+/*    border: 50px solid;*/
+/*    border-color: #2F70A8 transparent transparent transparent;*/
+/*}*/
