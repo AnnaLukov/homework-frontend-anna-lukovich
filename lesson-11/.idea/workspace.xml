@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df72a53d-b65b-4c04-aa86-c7ff7986d44f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/customers/customers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/customers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/images/customer-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/images/customer-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/images/freedom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/images/plans-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/packages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/packages/packages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/shared.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-12/starter-host-test-project/svg-icons.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1W1QOkjF3Spu9SUqPEfdxCERHUa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson-12" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df72a53d-b65b-4c04-aa86-c7ff7986d44f" name="Default Changelist" comment="" />
+      <created>1578314590520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578314590520</updated>
+      <workItem from="1578314591877" duration="2773000" />
+      <workItem from="1578404301968" duration="4667000" />
+      <workItem from="1578577315888" duration="12287000" />
+      <workItem from="1578589744299" duration="1333000" />
+      <workItem from="1578821617466" duration="1257000" />
+      <workItem from="1578824487763" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
