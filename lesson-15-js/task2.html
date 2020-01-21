@@ -2,9 +2,24 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Title</title>
+  <title>JS 2</title>
 </head>
 <body>
-  
+  <script>
+      var lastName = prompt('Ваша фамилия?');
+      var firstName = prompt('Ваше имя?');
+      var patronymic = prompt('Ваше отчество?');
+      var age = parseInt(prompt('Ваш возраст в годах?'));
+      var gender = confirm('Ваш пол - Мужской?');
+      gender = gender == 'нет'? 'женский': 'мужской';
+
+      var pension = undefined;
+      pension = age < 60 ? ' нет' : ' на пенсии';
+
+      alert('Ваше ФИО: ' + lastName + ' ' + firstName + ' ' + patronymic + ' '
+          + '\nВаш возраст в годах: ' + age + '\nВаш возраст в днях: ' + age * 365 +
+          '\nЧерез 5 лет вам будет: ' + (age + 5) + '\nВаш пол: ' + gender +
+          '\nНа пенсии: ' + pension);
+  </script>
 </body>
 </html>
