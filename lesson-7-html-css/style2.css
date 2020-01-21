@@ -1,9 +1,0 @@
-a[href*='google'] {
-    color: #666 ;
-}
-a[href$=".by"] {
-    color: #0000fa;
-}
-a[href*="yandex"] {
-    color: #f70;
-}
