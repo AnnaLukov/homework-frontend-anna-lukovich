@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: black;
+    padding: 0.5rem;
+}
+
+.nav {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.nav__items {
+    width: 100%;
+}
+
+.nav__item {
+    display: inline-block;
+    margin: 0.3rem 2rem;
+}
+
+.nav__item a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+}
